@@ -1,2 +1,3 @@
 -LEGGIMI-
-Questo progetto è stato creato semplicemente per imparareausare GitHub, non troverai niente di interessante qui.
+
+Questo progetto è stato creato semplicemente per imparare a usare GitHub, non troverai niente di interessante qui.
